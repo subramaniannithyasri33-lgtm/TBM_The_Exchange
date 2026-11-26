@@ -12,3 +12,6 @@ Can you create a tiny ecosystem that survives on its own, or will everything eve
 
 ## Commands for Quickstart
 
+``` python
+python run ecosystem.py
+```
